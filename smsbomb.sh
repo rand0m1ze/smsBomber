@@ -1,5 +1,5 @@
 #!/bin/bash
-resize -s 20 100                        #resize terminal
+resize -s 30 100                        #resize terminal
 
 clear                                   # Clear the screen.
 
